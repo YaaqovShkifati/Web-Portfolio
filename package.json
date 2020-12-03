@@ -1,0 +1,70 @@
+{
+  "name": "developers-portfolio",
+  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
+  "homepage": "https://yaaqovshkifati.com",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Yaaqov Shkifati",
+    "email": "yaaqovshkifati@gmail.com",
+    "url": "https://github.com/yaaqovshkifati"
+  },
+  "dependencies": {
+    "@aws-amplify/cli": "^4.29.1",
+    "@material-ui/core": "^4.9.9",
+    "@material-ui/icons": "^4.9.1",
+    "@popperjs/core": "^2.1.1",
+    "@react-native-firebase/app": "^8.4.1",
+    "@react-native-firebase/auth": "^9.2.1",
+    "@react-native-firebase/storage": "^7.4.2",
+    "aos": "^3.0.0-beta.6",
+    "aws-amplify": "^3.0.17",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "cursor": "^0.1.5",
+    "firebase-tools": "^8.4.2",
+    "gh-pages": "^2.2.0",
+    "jquery": "^3.5.1",
+    "react": "^16.13.1",
+    "react-cv": "^1.1.0",
+    "react-dom": "^16.13.1",
+    "react-modal": "^3.11.2",
+    "react-player": "^2.3.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.3",
+    "react-scroll": "^1.7.16",
+    "react-scrollspy": "^3.4.2",
+    "react-typist": "^2.0.5",
+    "reactstrap": "^8.4.1",
+    "redux": "^4.0.5",
+    "typescript": "^3.8.3",
+    "video-react": "^0.14.1",
+    "write-file-p": "^1.0.7"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "firestore-export-import": "^0.6.0"
+  }
+}
