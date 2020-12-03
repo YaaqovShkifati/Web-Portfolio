@@ -1,0 +1,48 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Yaaqov Shkifati",
+  "devDesc": "| Software Engineer | Embedded Engineer | Hardware Engineer ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/yaaqovshkifati",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/jack.shekfati",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/yaaqov-shkifati-89a699175/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/jackshekfati/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-snapchat",
+      "url": "https://www.snapchat.com/add/jackshkifati",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "yaaqovshkifati",
+  "instaQuerry": "/?__a=1",
+  "showInstaProfilePic": true,
+  "aboutDev": "I was born to two loving immigrant parents that knew practically nothing about technology and the modern world. While growing up, I was enamored by the technological feats achieved and I desperately wanted to be part of it. I joined an articulation program with Brooklyn College where I would complete all the technical aspects of Engineering there and proceed in pursuing a B.S. in Computer Engineering at NYU. ",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "yaaqovshkifati",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 6
+}

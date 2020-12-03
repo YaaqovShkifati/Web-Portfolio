@@ -1,0 +1,48 @@
+.educationBox{
+  width: 80%;
+  height: 10%;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20px;
+  text-align: left;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Chivo',sans-serif;
+}  
+
+.educationBox-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.educationBox h1{
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-weight: 100;
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
+.educationBox h5{
+  margin-top: 0px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: 10x;
+}
+.educationBox p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.educationBox li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+
+.profilePic-img{
+    width: 316px; 
+    height: 314px;
+    border-radius: 50%;
+}
