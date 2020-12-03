@@ -1,0 +1,15 @@
+{
+	"auth": {
+		"homed6b16a35": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"storage": {
+		"Media": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
